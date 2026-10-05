@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Mis Accesos",
+  "short_name": "Mis Accesos",
+  "description": "Panel de accesos a las apps de Apps Script de Julio Aquino (CENCOH).",
+  "lang": "es",
+  "start_url": "./?source=app",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f4f8",
+  "theme_color": "#1f5ad8",
+  "categories": ["productivity", "business"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
